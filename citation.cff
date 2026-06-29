@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite it as follows."
+title: "Timing Law Analysis"
+authors:
+  - family-names: "Wells"
+    given-names: "Treg R."
+    orcid: ""
+date-released: 2026-06-29
+url: "https://github.com/tregrwells/timing-law"
+repository-code: "https://github.com/tregrwells/timing-law"
+version: "1.0.0"
+license: "MIT"
+keywords:
+  - time perception
+  - Vierordt law
+  - duration reproduction
+  - timing
+  - psychophysics
+type: "software"

@@ -26,6 +26,8 @@ Click the badge below to open the analysis notebook directly in Google Colab:
 
 Alternatively, you can download the notebook and run it locally.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21043192.svg)](https://doi.org/10.5281/zenodo.21043192)
+
 ## Requirements
 
 - Python 3.8+
@@ -34,5 +36,3 @@ Alternatively, you can download the notebook and run it locally.
 Install dependencies via:
 ```bash
 pip install -r requirements.txt
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21043192.svg)](https://doi.org/10.5281/zenodo.21043192)

@@ -34,3 +34,5 @@ Alternatively, you can download the notebook and run it locally.
 Install dependencies via:
 ```bash
 pip install -r requirements.txt
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21043192.svg)](https://doi.org/10.5281/zenodo.21043192)
